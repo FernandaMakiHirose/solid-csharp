@@ -12,6 +12,9 @@
 - Visual Studio
 - Conhecimento em C# e .NET
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 Sigle Responsability Principle
 ==============================
 
