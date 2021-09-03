@@ -8,6 +8,10 @@
 | I | Interface Segregation Principle | ISP  | Faça interfaces com alta granularidade, para cada cliente                                                      |
 | D | Dependency Inversion Principle  | DIP  | Dependa de Abstrações, não de classes concretas                                                                |
 
+## Requisitos
+- Visual Studio
+- Conhecimento em C# e .NET
+
 Sigle Responsability Principle
 ==============================
 
