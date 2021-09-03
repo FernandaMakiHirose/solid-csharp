@@ -391,19 +391,19 @@ Por fim, fazemos ajuste na classe de Startup para permitir a injeção de depend
 
 ## Quiz
 ### "Uma classe não deve ser forçada a implementar interfaces e métodos que não irão utilizar." Estamos falando do princípio:
-Interface Segregation Principle
+Interface Segregation Principle.
 
 ### "Objetos ou entidades devem estar abertos para extensão, mas fechados para modificação." Estamos falando do princípio:
-Open/Closed Principle
+Open/Closed Principle.
 
 ### “Cada Classe ou módulo deve ter apenas uma razão para mudar”: Estamos falando do princípio:
-Single Responsibility Principle
+Single Responsibility Principle.
 
 ### Qual é a definição da “JWT”?
 É uma estratégia para realizar autenticação entre duas partes por meio de um token assinado que autentica uma requisição Web. Além disso, um token JWT também pode conter informações relacionadas à autorização.
 
 ### "Dependa de abstrações e não de implementações". Estamos falando do princípio:
-Dependency Inversion Principle
+Dependency Inversion Principle.
 
 ### “Uma classe derivada deve ser substituível por sua classe base.” Estamos falando do princípio:
-Liskov Substitution Principle
+Liskov Substitution Principle.
